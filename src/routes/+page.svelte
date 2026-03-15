@@ -63,8 +63,8 @@
     padding: clamp(1.1rem, 2.5vw, 1.6rem);
     overflow: hidden;
     background:
-      linear-gradient(90deg, rgba(247, 248, 245, 0.78) 0%, rgba(247, 248, 245, 0.5) 40%, rgba(247, 248, 245, 0.14) 66%, rgba(247, 248, 245, 0.02) 100%),
-      url('/Start.jpeg') 82% center / cover no-repeat;
+      linear-gradient(90deg, rgba(247, 248, 245, 0.8) 0%, rgba(247, 248, 245, 0.52) 37%, rgba(247, 248, 245, 0.08) 60%, rgba(247, 248, 245, 0) 100%),
+      url('/Start.jpeg') 88% 62% / cover no-repeat;
   }
 
   .hero-copy {
@@ -174,8 +174,8 @@
     .hero {
       grid-template-columns: 1fr;
       background:
-        linear-gradient(180deg, rgba(247, 248, 245, 0.8), rgba(247, 248, 245, 0.5)),
-        url('/Start.jpeg') 72% center / cover no-repeat;
+        linear-gradient(180deg, rgba(247, 248, 245, 0.82), rgba(247, 248, 245, 0.46)),
+        url('/Start.jpeg') 78% 58% / cover no-repeat;
     }
 
     .hero-copy {
